@@ -214,10 +214,10 @@
             </span>
           </div>
           <h3 class="text-center">
-            Web Applications
+           Systems Administration 
           </h3>
           <p>
-            Nam vitae ligula eu mi molestie fringilla sed ac massa. Quisque justo metus, commodo eu viverra quis, volutpat et urna.
+            <?php include 'systems_admin.php' ?>
           </p>
           <a class="more-link" href="services.html">
             <strong>
@@ -233,10 +233,9 @@
               <i class="icon-cloud"></i>
             </span>
           </div>
-          <h3 class="text-center">Cloud Hosting</h3>
+          <h3 class="text-center">Operations and Uptime</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua.
+	    <?php include 'ops_and_uptime.php' ?>
           </p>
           <a class="more-link" href="services.html">
             <strong>
@@ -252,9 +251,9 @@
               <i class="icon-comments"></i>
             </span>
           </div>
-          <h3 class="text-center">Social apps</h3>
+          <h3 class="text-center">DevOps</h3>
           <p>
-            Sed rhoncus leo eget elit tincidunt vestibulum nec ac urna. Aliquam lobortis odio in felis ultricies bibendum sunt in culpa qui.
+            <?php include 'devops.php' ?>
           </p>
           <a class="more-link" href="services.html">
             <strong>
@@ -270,9 +269,9 @@
               <i class="icon-cog"></i>
             </span>
           </div>
-          <h3 class="text-center">Smart design</h3>
+          <h3 class="text-center">Cloud and Colo</h3>
           <p>
-            Phasellus turpis metus, aliquam a facilisis nec, aliquet et elit. Suspendisse fermentum mattis dolor ut tristique nibh sapien mollis.
+            <?php include 'cloud_and_colo.php' ?>
           </p>
           <a class="more-link" href="services.html">
             <strong>

@@ -1,0 +1,1 @@
+Application hosting, implementation and monitoring.  Nagios configuration, critical alert response, resolution and escalation.  Design and configure operations workflow and ticketing systems.  Netsuite implementation and customization.

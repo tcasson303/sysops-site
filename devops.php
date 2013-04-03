@@ -1,0 +1,1 @@
+We know DevOps.  While the label is less than four year old, we have been doing DevOps under other names for more than ten years.  Today it means using tools using Jira, GitHub, Jenkins, Chef, Puppet and RabbitMQ to automate systems and operations tasks>  Yesterday, we just wrote the scripts and did it ourselves.  Whatever you call it, we'll do it for you.
